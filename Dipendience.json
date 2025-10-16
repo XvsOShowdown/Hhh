@@ -1,0 +1,20 @@
+{
+  "name": "rps-multiplayer",
+  "version": "1.0.0",
+  "description": "A simple multiplayer Rock Paper Scissors server using WebSockets",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "rps",
+    "rock-paper-scissors",
+    "websocket",
+    "multiplayer"
+  ],
+  "author": "Elias",
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^8.17.0"
+  }
+}
