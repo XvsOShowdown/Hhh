@@ -1,0 +1,14 @@
+{
+  "name": "rps-server",
+  "version": "1.0.0",
+  "main": "rps.js",
+  "scripts": {
+    "start": "node rps.js"
+  },
+  "dependencies": {
+    "ws": "^8.16.0"
+  },
+  "engines": {
+    "node": "22.x"
+  }
+}
